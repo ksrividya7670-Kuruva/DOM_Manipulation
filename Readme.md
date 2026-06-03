@@ -34,7 +34,7 @@ Updating content using innerHTML.
 Handling user events such as clicks.
 Modifying CSS properties dynamically with JavaScript.
 
-## How it works
+## How to Run
 1.Clone the folder
 2.open the folder in vs code
 3.Make sure index.html and style.css are in the same folder.
